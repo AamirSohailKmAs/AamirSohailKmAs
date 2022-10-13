@@ -1,16 +1,15 @@
 <!-- <a href="#"> <img  src="https://i.imgur.com/"/></a> -->
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Aamir Sohail</h1>
+<h1 align="center">Hi, I'm Aamir Sohail</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from Pakistan</h3>
 
 ## 🙋‍♂️ About Me
 
 <!-- - 🎓 Graduated From Arid University Rawalpindi **Award Winning FYP** -->
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://aamirsohail.dev)**
 - 🤠 Coded 4000+ hours
 - ⭐ 80+ Repositories on GitHub
-- 📫 How to reach me **contact@aamirsohail.dev**
+- 📫 How to reach me **aamirsohailkmas@gmail.com**
 - ⚡ Fun fact **I love coding and I'm a quick learner.**
 
 ## 🚀 Technologies I know
@@ -54,10 +53,3 @@
 <a href = "https://www.linkedin.com/in/AamirSohailKmAs/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a> <a href = "https://twitter.com/AamirSohailKmAs"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a> <a href = "https://www.instagram.com/AamirSohailKmAs_/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a> <a href = "https://www.facebook.com/AamirSohailKmAs/"><img src="https://img.icons8.com/color/48/000000/facebook.png"/></a> <a href = "https://www.fiverr.com/AamirSohailKmAs/"><img src="https://img.icons8.com/color/48/fiverr.png"/></a>
 
 </p>
-
-## ❤ Views and Followers
-
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=AamirSohailKmAs">
-</a>
-<a href="https://github.com/AamirSohailKmAs?tab=followers"><img src="https://img.shields.io/github/followers/AamirSohailKmAs?label=Followers&style=social" alt="GitHub Badge"></a>
