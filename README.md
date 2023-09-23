@@ -7,7 +7,7 @@
 
 <!-- - 🎓 Graduated From Arid University Rawalpindi **Award Winning FYP** -->
 
-- 🤠 Coded 4000+ hours
+- 🤠 Coding for more than 6 years
 - ⭐ 80+ Repositories on GitHub
 - 📫 How to reach me **aamirsohailkmas@gmail.com**
 - ⚡ Fun fact **I love coding and I'm a quick learner.**
@@ -50,6 +50,10 @@
 
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/AamirSohailKmAs/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a> <a href = "https://twitter.com/AamirSohailKmAs"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a> <a href = "https://www.instagram.com/AamirSohailKmAs_/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a> <a href = "https://www.facebook.com/AamirSohailKmAs/"><img src="https://img.icons8.com/color/48/000000/facebook.png"/></a> <a href = "https://www.fiverr.com/AamirSohailKmAs/"><img src="https://img.icons8.com/color/48/fiverr.png"/></a>
+<a href = "https://www.linkedin.com/in/AamirSohailKmAs/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a> 
+<a href = "https://twitter.com/AamirSohailKmAs"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a> 
+<a href = "https://www.instagram.com/AamirSohailKmAs_/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a> 
+<a href = "https://www.facebook.com/AamirSohailKmAs/"><img src="https://img.icons8.com/color/48/000000/facebook.png"/></a> 
+<!--<a href = "https://www.fiverr.com/AamirSohailKmAs/"><img src="https://img.icons8.com/color/48/fiverr.png"/></a>-->
 
 </p>
