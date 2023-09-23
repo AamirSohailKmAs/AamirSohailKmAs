@@ -9,8 +9,9 @@
 
 - 🤠 Coding for more than 6 years
 - ⭐ 80+ Repositories on GitHub
+- Maintainer of Laraphense (**Lara**vel **PH**P Intellis**ense**) extension for vs code
 - 📫 How to reach me **aamirsohailkmas@gmail.com**
-- ⚡ Fun fact **I love coding and I'm a quick learner.**
+- ⚡ Fun fact **I love coding and am a quick learner.**
 
 ## 🚀 Technologies I know
 
